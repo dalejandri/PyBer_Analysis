@@ -85,7 +85,7 @@ From the data we observe that most of the fares are collected from the urban are
 The average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. In theory, it seems that increasing the number of drivers in the rural areas makes sense, however there are multiple factors that have not been taken into account to make a correct assessment, some of this factors are:
 
 - Ride demand and waiting times across city types.
-- Ride length and duration.
+- Ride length and duration, rural trips are expected to cover longer distances due to the nature of the geographics.
 - Waiting times.
 - Operational expenses.
 - Consumables, such as maintenance, fuel, spare parts, etc.
