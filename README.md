@@ -90,6 +90,8 @@ The average fare for rides in the rural cities is about $11 and $5 more per ride
 - Operational expenses.
 - Consumables, such as maintenance, fuel, spare parts, etc.
 
+Also, note the peak of rides on March, this peak happens in all city types. PyBer should plan ahead and prepare ahead, speacially if this a yearly trend.
+
 Basically, we can deliver an enhanced report if we get access to complementary information and we will be happy to collaborate further with PyBer to accomplish your goals.
 
 ![](analysis/PyBer_fare_summary.png)
